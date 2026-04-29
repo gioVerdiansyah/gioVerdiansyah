@@ -7,7 +7,7 @@
     "success": "yet"
   },
   "data": {
-    "deskription": "Clear and Clean like Clean Architecture and Organized like DDD Architecture.",
+    "description": "Clear and Clean like Clean Architecture and Organized like DDD Architecture.",
     "roles": [
       "App Developer", 
       "Website Developer", 
