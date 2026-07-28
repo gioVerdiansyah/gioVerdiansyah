@@ -7,7 +7,7 @@
     "success": "yet"
   },
   "data": {
-    "description": "Clear and Clean like Clean Architecture and Organized like DDD Architecture.",
+    "description": "Clean Architecture in code, Domain-Driven Design in mind.",
     "roles": [
       "App Developer", 
       "Website Developer", 
