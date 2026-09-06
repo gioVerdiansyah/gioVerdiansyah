@@ -19,7 +19,8 @@
       "Laravel", 
       "React", 
       "Python", 
-      "C++", 
+      "C++",
+      "C",
       "Rust"
     ],
     "interests": "Robotics, AI, HTTP Tech, Linux, and Dev Ops",
